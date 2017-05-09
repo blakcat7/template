@@ -1,0 +1,24 @@
+<div id="single-portfolio">
+	<div id="portfolio-details" class="container">
+		<a class="close-folio-item" href="#"><i class="fa fa-times"></i></a>
+		<iframe width="1120" height="630" src="https://www.youtube.com/embed/72zMrRNoW7Q?autoplay=1" frameborder="0" allowfullscreen></iframe>
+		<div class="row">
+			<div class="col-sm-9">
+				<div class="project-info">
+					<h3>French Business Council Gala Dinner 2017</h3>
+					<p>We have been honoured to be a part of an unforgettable evening of fine dining, networking, entertainment and ground-breaking shows.</p>
+					<p>Organised under the Patronage of His Highness Sheikh Maktoum Bin Mohammed Bin Rashid Al Maktoum, Deputy Ruler of Dubai and President of Dubai International Financial Centre, this Gala Dinner was a unique evening where we have showcased our innovative ideas and creativity in order to support the strategy of the nation and contribute to make the UAE the happiest and most innovative country in the world.</p>
+                                        <p>Fractal Systems has delivered an extravagant show during the whole event. Our huge robot arms were moving the gigantic screens around the stage with tremendous precision. We have delivered a creative concept that is bringing the industrial robots to life in synchronisation with the live artistic show!</p>
+                                </div>
+			</div>
+			<div class="col-sm-3">
+				<div class="project-details">
+					<h3>Project Details</h3>
+					<p><span>Client: </span> French Business Council</p>
+					<p><span>Date:</span> 03 May 2017</p>
+					<p><span>Tag:</span> Mechatronics, Display Systems</p>
+				</div>  
+			</div>
+		</div>
+	</div>
+</div>

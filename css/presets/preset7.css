@@ -1,26 +1,22 @@
 a,
 #home-slider .caption h1 span, 
-#twitter-carousel .item span, 
 #footer .footer-bottom, 
 #single-portfolio .close-folio-item:hover, 
 .single-table.featured .btn.btn-primary, 
 .contact-info ul li a:hover, 
 #footer .footer-bottom a  {
-  color: #222;
+    color: #222;
 }
 
 .btn.btn-primary:hover,
 .btn-submit:hover {
-  background-color: #027db3
+    background-color: #027db3
 }
 
 a:hover, a:focus {
-	color: #027db3;
+    color: #027db3;
 }
 
-.main-nav, 
-.service-icon, 
-.progress-bar.progress-bar-primary, 
 .single-table.featured, 
 .btn.btn-primary, 
 .twitter-icon .fa-twitter, 
@@ -34,21 +30,67 @@ a:hover, a:focus {
 .left-control:hover, 
 .right-control:hover, 
 .folio-overview a:hover {
-  background-color:#222;
+    background-color:#222;
+}
+
+
+.progress-bar.progress-bar-primary {
+    background-color: #f38f47;
+}
+
+.service-icon {
+    border: 2px solid #f38f47;
+}
+
+.main-nav {
+    background-color: #FFF;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1); 
+}
+
+.navbar-right li a {
+    color: #1da0d8;
 }
 
 .twitter-left-control:hover, 
 .twitter-right-control:hover, 
 .btn-loadmore:hover  {
-	border: 1px solid #222;
+    border: 1px solid #222;
 }
 
 .caption .btn-start:hover, 
 .left-control:hover, 
 .right-control:hover {
-	border-color: #222;
+    border-color: #222;
 }
 
 .twitter-icon .fa-twitter:after {
-	border-color: #222 transparent transparent;
+    border-color: #222 transparent transparent;
+}
+
+.title {
+    font-weight: 700;
+    color: #222;
+}
+
+.side-div{
+    border-left: 1px solid rgba(0,0,0, 0.2);
+}
+
+#twitter-carousel .item span {
+    color: #1da0d8;
+    font-weight: 600;
+}
+
+.item p {
+    color: #fff;
+}
+
+#products .single-table,
+#products .single-table h2{
+    color: #fff;
+}
+
+.single-table {
+    margin-bottom: 20px;
+    min-height: 400px;
 }

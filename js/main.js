@@ -11,17 +11,17 @@ jQuery(function($) {
 	$('#home-slider .item').css('height',slideHeight);
 
 	$(window).resize(function(){'use strict',
-		$('#home-slider .item').css('height',slideHeight);
+		$('#home-slider .item'  ).css('height',slideHeight);
 	});
 	
 	//Scroll Menu
-	$(window).on('scroll', function(){
-		if( $(window).scrollTop()>slideHeight ){
-			$('.main-nav').addClass('navbar-fixed-top');
-		} else {
-			$('.main-nav').removeClass('navbar-fixed-top');
-		}
-	});
+            $(window).on('scroll', function(){
+                    if( $(window).scrollTop()>slideHeight){
+                            $('.main-nav').addClass('navbar-fixed-top');
+                    } else {
+                            $('.main-nav').removeClass('navbar-fixed-top');
+                    }
+            });
 	
 	// Navigation Scroll
 	$(window).scroll(function(event) {
